@@ -1,10 +1,16 @@
-body {
-  padding-top: 5rem;
-}
-.starter-template {
-  padding: 3rem 1.5rem;
+h1 {
   text-align: center;
 }
-h1 {
-  color: #004d99;
+p {
+  text-align: center;
+}
+span.fit {
+  color: #4488f4;
+}
+.img{
+  position: relative;
+  left: 600px;
+}
+.nav-item {
+  margin: 0 auto;
 }
