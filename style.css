@@ -21,3 +21,16 @@ span.fit {
   left:30px;
   border: 2px grey;
 }
+@media (max-width: 500px) {
+  .women {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 0px;
+  }
+  .img {
+    position: relative;
+    left:75px;
+  }
+  }
