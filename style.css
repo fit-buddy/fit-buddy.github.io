@@ -24,8 +24,7 @@ span.fit {
 }
 @media (max-width: 500px) {
   .women {
-    opacity: 0%;
-    // etc. > ignore all at once for touch devices
+    display: none;
   }
   .img {
     position: relative;
