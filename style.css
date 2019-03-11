@@ -3,6 +3,7 @@ h1 {
 }
 p {
   text-align: center;
+  line-height: 25px;
 }
 span.fit {
   color: #4488f4;
@@ -12,5 +13,16 @@ span.fit {
   left: 600px;
 }
 .nav-item {
+  margin: 0 auto;
+}
+.women {
+  border-radius: 60%;
+  position: relative;
+  left:30px;
+  border: 2px grey;
+}
+.container1 {
+  background-color: #4488f4;
+  width: 100%;
   margin: 0 auto;
 }
