@@ -26,6 +26,16 @@ span.fit {
   left:30px;
   border: 2px grey;
 }
+.running1 {
+  height: 15%;
+  width: 15%;
+  border-radius: 50%;
+}
+.running2 {
+  height: 17%;
+  width: 17%;
+  border-radius: 50%;
+}
 @media (max-width: 500px) {
   .women {
     display: none;
