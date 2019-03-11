@@ -24,15 +24,11 @@ span.fit {
 }
 @media (max-width: 500px) {
   .women {
-    border-radius: 50%;
-    width: 50%;
-    height: 50%;
-    position: relative;
-    left: 100px;
+    opacity: 0%;
   }
   .img {
     position: relative;
-    left:100px;
+    left:110px;
   }
 
   }
